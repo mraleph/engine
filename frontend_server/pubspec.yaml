@@ -62,6 +62,8 @@ dependency_overrides:
     path: ../../third_party/dart/third_party/pkg/args
   async:
     path: ../../third_party/dart/third_party/pkg/async
+  build_integration:
+    path: ../../third_party/dart/pkg/build_integration
   charcode:
     path: ../../third_party/dart/third_party/pkg/charcode
   collection:
